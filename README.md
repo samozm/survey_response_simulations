@@ -1,2 +1,2 @@
-# survey_response_simulations
-Code for Dragovic et al. (2026+)
+# Survey Study Response Rates
+Simulation code for Dragovic et al. (2026+)
